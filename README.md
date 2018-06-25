@@ -1,0 +1,2 @@
+# open-source-religion
+Open-source religions employ open-source methods for the sharing, construction, and adaptation of religious belief systems, content, and practice. In comparison to religions utilizing proprietary, authoritarian, hierarchical, and change-resistant structures, open-source religions emphasize sharing in a cultural Commons, participation, self-determination, decentralization, and evolution.
